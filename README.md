@@ -1,2 +1,11 @@
 # Udacity_first_project
-My first project on Udacity
+This is my first project at Udacity. 
+
+## Installation and packages
+
+
+## Issues
+
+
+## License
+
