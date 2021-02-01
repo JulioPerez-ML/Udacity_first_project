@@ -22,8 +22,10 @@ sns.set() # we apply the seaborn style to our charts
 from statsmodels.tsa.arima.model import ARIMA
 ```
 
+## Results
+You can find thew results in this post. PONER POST
 ## Issues
-
+Nothing to comment here.
 
 ## References
 > [Matplotlib example charts](https://pythonspot.com/matplotlib-bar-chart/)
