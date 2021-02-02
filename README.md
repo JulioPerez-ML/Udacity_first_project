@@ -23,7 +23,7 @@ from statsmodels.tsa.arima.model import ARIMA
 ```
 
 ## Results
-You can find thew results in this post. PONER POST
+You can find thew results in this post. [Here](https://julio-94.medium.com/is-there-really-a-gender-pay-gap-in-spain-e5e5ec7c9e8)
 ## Issues
 Nothing to comment here.
 
