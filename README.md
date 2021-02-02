@@ -46,4 +46,4 @@ Nothing to comment here.
 
 
 ## License
-
+You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/jtljtl/spain-salary-distribution). Otherwise, feel free to use the code here as you would like!
